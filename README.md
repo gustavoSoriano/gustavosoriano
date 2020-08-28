@@ -43,6 +43,8 @@
    <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/RabbitMQ%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Apache Kafka%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/FeathersJs%20-%23F7DF1E.svg?&style=for-the-badge&color=D513A5" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Strapi%20-%23F7DF1E.svg?&style=for-the-badge&color=1C1B7E" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Laravel%20-%23F7DF1E.svg?&style=for-the-badge&color=F24F3B" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Lumen%20-%23F7DF1E.svg?&style=for-the-badge&color=F24F3B" />&nbsp;&nbsp;
@@ -55,6 +57,7 @@
    <img src="https://img.shields.io/badge/Redis%20-%23F7DF1E.svg?&style=for-the-badge&color=802221" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Asterisk 11%20-%23F7DF1E.svg?&style=for-the-badge&color=F68F1E" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/PBX%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
