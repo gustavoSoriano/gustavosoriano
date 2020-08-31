@@ -85,7 +85,7 @@
 
 ### ✔  **Domain :** Full-Stack Web Development 💻
 ### ✔  **Skills :** Javascript, Vue.js, ReactJs, Angular, Node.js, MongoDB, Mysql, PHP, Python, Java
-### ✔  **Learning :** Deno, Svelte and Apache NiFi
+### ✔  **Learning :** Deno, Flutter and Apache NiFi
 ### ✔  **Hobbies :**  Read 📕, Work out 💪, Music 🎧
 
 <hr>
