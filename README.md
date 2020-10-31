@@ -34,6 +34,7 @@
    <img src="https://img.shields.io/badge/TDD%20-%23F7DF1E.svg?&style=for-the-badge&color=A4AD19" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/E2E Testing%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/BDD%20-%23F7DF1E.svg?&style=for-the-badge&color=6CC24A" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Cypress%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=A259FF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Adobe XD%20-%23F7DF1E.svg?&style=for-the-badge&color=470137" />&nbsp;&nbsp;
@@ -59,6 +60,7 @@
    <img src="https://img.shields.io/badge/Lumen%20-%23F7DF1E.svg?&style=for-the-badge&color=F24F3B" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Blade%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Eloquent%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Freemarker%20-%fff.svg?&style=for-the-badge&color=074095" />&nbsp;&nbsp;
    <br/>
    <img src="https://img.shields.io/badge/Liferay%20-%23F7DF1E.svg?&style=for-the-badge&color=0B63CE" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Pandas%20-%23F7DF1E.svg?&style=for-the-badge&color=110054" />&nbsp;&nbsp;
@@ -85,14 +87,14 @@
 
 ### ✔  **Domain :** Full-Stack Web Development 💻
 ### ✔  **Skills :** Javascript, Vue.js, ReactJs, Angular, Node.js, MongoDB, Mysql, PHP, Python, Java
-### ✔  **Learning :** Deno, Flutter and Apache NiFi
+### ✔  **Learning :** Deno and Apache NiFi
 ### ✔  **Hobbies :**  Read 📕, Work out 💪, Music 🎧
 
 <hr>
 
 ### S.O 💻
 
-### ✔  Ubuntu, Linux Mint, Pop!_OS, Linux Lite
+### ✔  Elementary OS, Ubuntu, Linux Mint, Pop!_OS, Linux Lite
 ### ✔  Windows
 
 <hr>
