@@ -26,6 +26,7 @@
    <img src="https://img.shields.io/badge/React Native%20-%23F7DF1E.svg?&style=for-the-badge&color=61DAFB" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=DD0031" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Svelte%20-%23F7DF1E.svg?&style=for-the-badge&color=FF3E00" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Flutter%20-%23F7DF1E.svg?&style=for-the-badge&color=115B9A" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/webpack%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Gulp.js%20-%23F7DF1E.svg?&style=for-the-badge&color=DA4648" />&nbsp;&nbsp;
