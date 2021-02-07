@@ -28,6 +28,13 @@
    <img src="https://img.shields.io/badge/Svelte%20-%23F7DF1E.svg?&style=for-the-badge&color=FF3E00" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Flutter%20-%23F7DF1E.svg?&style=for-the-badge&color=115B9A" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/handlebarsjs%20-EA762A.svg?&style=for-the-badge&color=FBDDA9" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/jest%20-%23F7DF1E.svg?&style=for-the-badge&color=74C417" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/mocha%20-%23F7DF1E.svg?&style=for-the-badge&color=8D6748" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/socket.io%20-%23F7DF1E.svg?&style=for-the-badge&color=5776A2" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/next.js%20-%23F7DF1E.svg?&style=for-the-badge&color=000000" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/nuxt%20-%23F7DF1E.svg?&style=for-the-badge&color=6FC78F" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/eslint%20-%23F7DF1E.svg?&style=for-the-badge&color=8080F2" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/web%20components%20-%23F7DF1E.svg?&style=for-the-badge&color=E06027" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/webpack%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Gulp.js%20-%23F7DF1E.svg?&style=for-the-badge&color=DA4648" />&nbsp;&nbsp;
