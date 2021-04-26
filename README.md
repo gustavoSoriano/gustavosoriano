@@ -5,9 +5,10 @@
 
 <h2>Articles</h2>
 
+- [x] [CYPRESS - TESTES DE ÚLTIMA GERAÇÃO PARA FRONT-END](https://www.youtube.com/watch?v=L5ZTohYaj-E)
+- [x] [Deno - QUAIS OS MOTIVOS DO HYPE?](https://medium.com/entelgybrasil/deno-171d454521e8?source=collection_home---4------3-----------------------)
 - [x] [ANÁLISE DO MÉTODO SCRUM PARA GERENCIAMENTO DE PROJETOS DE SOFTWARE](https://revista.fatectq.edu.br/index.php/interfacetecnologica/article/view/566)
 - [x] [O PROCESSO DE DEPLOY AUTOMÁTICO EM AMBIENTES DE COMPUTAÇÃO NA NUVEM](https://revista.fatectq.edu.br/index.php/interfacetecnologica/article/view/545)
-- [x] [Deno - QUAIS OS MOTIVOS DO HYPE?](https://medium.com/entelgybrasil/deno-171d454521e8?source=collection_home---4------3-----------------------)
 <hr>
 
 <h3>How to reach me:</h3>
