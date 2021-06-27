@@ -96,9 +96,9 @@
 ### About 📌
 
 ### ✔  **Domain :** Full-Stack Web Development 💻
-### ✔  **Skills :** Javascript, Vue.js, ReactJs, Angular, Node.js, MongoDB, Mysql, PHP, Python, Java
-### ✔  **Learning :** Flutter
-### ✔  **Hobbies :**  Read 📕, Work out 💪, Music 🎧
+### ✔  **Skills :** Javascript, Vue.js, ReactJs, Angular, MongoDB, Mysql, Node.js, PHP, .NET Core 5, Python, Java
+### ✔  **Learning :** .NET Core 5
+### ✔  **Hobbies :**  Read 📕, Music 🎧
 
 <hr>
 
