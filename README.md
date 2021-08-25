@@ -36,6 +36,9 @@
    <img src="https://img.shields.io/badge/nuxt%20-%23F7DF1E.svg?&style=for-the-badge&color=6FC78F" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/eslint%20-%23F7DF1E.svg?&style=for-the-badge&color=8080F2" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/web%20components%20-%23F7DF1E.svg?&style=for-the-badge&color=E06027" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Vuex%20-%23F7DF1E.svg?&style=for-the-badge&color=65BEAA" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Recoil%20-%23F7DF1E.svg?&style=for-the-badge&color=3578E5" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?&style=for-the-badge&color=7857BC" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/webpack%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Gulp.js%20-%23F7DF1E.svg?&style=for-the-badge&color=DA4648" />&nbsp;&nbsp;
@@ -51,11 +54,14 @@
    <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Sass%20-%23F7DF1E.svg?&style=for-the-badge&color=CD6799" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Stylus%20-%23F7DF1E.svg?&style=for-the-badge&color=B8D438" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Tailwindcss%20-%23F7DF1E.svg?&style=for-the-badge&color=65D1EE" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/materializecss%20-%23F7DF1E.svg?&style=for-the-badge&color=E76C73" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Jira%20-%23F7DF1E.svg?&style=for-the-badge&color=2881FF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Freedcamp%20-%23F7DF1E.svg?&style=for-the-badge&color=3C4C65" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Trello%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Slack%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Discord%20-%23F7DF1E.svg?&style=for-the-badge&color=3C4C65" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
@@ -65,6 +71,8 @@
    <img src="https://img.shields.io/badge/FeathersJs%20-%23F7DF1E.svg?&style=for-the-badge&color=D513A5" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Strapi%20-%23F7DF1E.svg?&style=for-the-badge&color=1C1B7E" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GraphQL%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Nexus.js%20-%23F7DF1E.svg?&style=for-the-badge&color=000000" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/OpenShift%20-%23F7DF1E.svg?&style=for-the-badge&color=D6462C" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Laravel%20-%23F7DF1E.svg?&style=for-the-badge&color=F24F3B" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Lumen%20-%23F7DF1E.svg?&style=for-the-badge&color=F24F3B" />&nbsp;&nbsp;
@@ -79,6 +87,7 @@
    <img src="https://img.shields.io/badge/Asterisk 11%20-%23F7DF1E.svg?&style=for-the-badge&color=F68F1E" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/PBX%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Metabase%20-%23F7DF1E.svg?&style=for-the-badge&color=5EA4E3" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
