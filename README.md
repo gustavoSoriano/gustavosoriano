@@ -105,6 +105,7 @@
 
 ### ✔  Elementary OS, Ubuntu, Linux Mint, Pop!_OS, Linux Lite
 ### ✔  Windows
+### ✔  Mac
 
 <hr>
 
