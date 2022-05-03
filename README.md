@@ -60,6 +60,7 @@
 <img src="https://img.shields.io/badge/Stylus%20-%23F7DF1E.svg?&style=for-the-badge&color=B8D438" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Tailwindcss%20-%23F7DF1E.svg?&style=for-the-badge&color=65D1EE" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/materializecss%20-%23F7DF1E.svg?&style=for-the-badge&color=E76C73" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Storybook%20-%23F7DF1E.svg?&style=for-the-badge&color=FFA3C3" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Jira%20-%23F7DF1E.svg?&style=for-the-badge&color=2881FF" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Freedcamp%20-%23F7DF1E.svg?&style=for-the-badge&color=3C4C65" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Trello%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp;
