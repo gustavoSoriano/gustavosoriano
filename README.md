@@ -35,6 +35,8 @@
 <img src="https://img.shields.io/badge/next.js%20-%23F7DF1E.svg?&style=for-the-badge&color=000000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/nuxt%20-%23F7DF1E.svg?&style=for-the-badge&color=6FC78F" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/eslint%20-%23F7DF1E.svg?&style=for-the-badge&color=8080F2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vite.js%20-%23F7DF1E.svg?&style=for-the-badge&color=C034EB" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pinia%20-%23F7DF1E.svg?&style=for-the-badge&color=E19B0A" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/web%20components%20-%23F7DF1E.svg?&style=for-the-badge&color=E06027" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Vuex%20-%23F7DF1E.svg?&style=for-the-badge&color=65BEAA" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Recoil%20-%23F7DF1E.svg?&style=for-the-badge&color=3578E5" />&nbsp;&nbsp;
