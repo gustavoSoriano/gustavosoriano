@@ -27,6 +27,8 @@
 <img src="https://img.shields.io/badge/React Native%20-%23F7DF1E.svg?&style=for-the-badge&color=61DAFB" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=DD0031" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Svelte%20-%23F7DF1E.svg?&style=for-the-badge&color=FF3E00" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jquery%20-%23F7DF1E.svg?&style=for-the-badge&color=0769AC" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3079C6" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Flutter%20-%23F7DF1E.svg?&style=for-the-badge&color=115B9A" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/handlebarsjs%20-EA762A.svg?&style=for-the-badge&color=FBDDA9" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/jest%20-%23F7DF1E.svg?&style=for-the-badge&color=74C417" />&nbsp;&nbsp;
@@ -48,7 +50,9 @@
 <img src="https://img.shields.io/badge/TDD%20-%23F7DF1E.svg?&style=for-the-badge&color=A4AD19" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/E2E Testing%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/BDD%20-%23F7DF1E.svg?&style=for-the-badge&color=6CC24A" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Playwright%20-%23F7DF1E.svg?&style=for-the-badge&color=454547" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Cypress%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jitsi%20-%23F7DF1E.svg?&style=for-the-badge&color=454547" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=A259FF" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Adobe XD%20-%23F7DF1E.svg?&style=for-the-badge&color=470137" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
@@ -78,7 +82,7 @@
 <img src="https://img.shields.io/badge/Freemarker%20-%fff.svg?&style=for-the-badge&color=074095" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Liferay%20-%23F7DF1E.svg?&style=for-the-badge&color=0B63CE" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Pandas%20-%23F7DF1E.svg?&style=for-the-badge&color=110054" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Styled components%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Redis%20-%23F7DF1E.svg?&style=for-the-badge&color=802221" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Asterisk 11%20-%23F7DF1E.svg?&style=for-the-badge&color=F68F1E" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PBX%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
@@ -92,7 +96,8 @@
 <img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?&style=for-the-badge&color=2496ED" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker compose%20-%23F7DF1E.svg?&style=for-the-badge&color=B4C3D2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Travis CI%20-%23F7DF1E.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
-
+<img src="https://img.shields.io/badge/Github Actions%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AWS%20-%23F7DF1E.svg?&style=for-the-badge&color=547bab" />&nbsp;&nbsp;
 <hr>
 
 ### About 📌
