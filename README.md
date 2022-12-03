@@ -109,11 +109,11 @@
 
 <hr>
 
-### S.O 💻
+### Total Profile Views :detective: <br>
 
-### ✔  Elementary OS, Ubuntu, Linux Mint, Pop!_OS, Linux Lite
-### ✔  Windows
-### ✔  Mac
+
+   <img src="https://profile-counter.glitch.me/gustavosoriano/count.svg" />
+
 
 <hr>
 
