@@ -111,10 +111,11 @@
 ### ✔  **Domain :** Full-Stack Web Development 💻
 ### ✔  **Skills :** Javascript, ReactJs, Vue.js, Angular, MongoDB, Mysql, Node.js, PHP, .NET Core, Python
 ### ✔  **Hobbies :**  Read 📕, Music 🎧
-
 <hr>
-### Total Profile Views :detective: <br>
+
+### Total Profile Views :detective: 
 <img src="https://profile-counter.glitch.me/gustavosoriano/count.svg" />
+
 <hr>
 
 ```
