@@ -66,9 +66,14 @@
 <img src="https://img.shields.io/badge/Trello%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Slack%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Discord%20-%23F7DF1E.svg?&style=for-the-badge&color=3C4C65" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PHP%20-%23F7DF1E.svg?&style=for-the-badge&color=7A86B8" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/WordPress%20-%23F7DF1E.svg?&style=for-the-badge&color=547bab" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NestJs%20-%ea2845.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Prisma%20-%23F7DF1E.svg?&style=for-the-badge&color=4C51BF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sequelize%20-%23F7DF1E.svg?&style=for-the-badge&color=2d66c3" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/RabbitMQ%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Apache Kafka%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/FeathersJs%20-%23F7DF1E.svg?&style=for-the-badge&color=D513A5" />&nbsp;&nbsp;
@@ -104,17 +109,12 @@
 ### About 📌
 
 ### ✔  **Domain :** Full-Stack Web Development 💻
-### ✔  **Skills :** Javascript, Vue.js, ReactJs, Angular, MongoDB, Mysql, Node.js, PHP, .NET Core 5, Python, Java
+### ✔  **Skills :** Javascript, ReactJs, Vue.js, Angular, MongoDB, Mysql, Node.js, PHP, .NET Core, Python
 ### ✔  **Hobbies :**  Read 📕, Music 🎧
 
 <hr>
-
 ### Total Profile Views :detective: <br>
-
-
-   <img src="https://profile-counter.glitch.me/gustavosoriano/count.svg" />
-
-
+<img src="https://profile-counter.glitch.me/gustavosoriano/count.svg" />
 <hr>
 
 ```
