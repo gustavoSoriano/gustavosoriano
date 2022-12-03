@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/Recoil%20-%23F7DF1E.svg?&style=for-the-badge&color=3578E5" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?&style=for-the-badge&color=7857BC" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/webpack%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Turbopack%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Gulp.js%20-%23F7DF1E.svg?&style=for-the-badge&color=DA4648" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Electron%20-%23F7DF1E.svg?&style=for-the-badge&color=5E8E98" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Nuxt.js%20-%23F7DF1E.svg?&style=for-the-badge&color=2F495E" />&nbsp;&nbsp;
