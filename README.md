@@ -1,5 +1,5 @@
 <h1>Hello, I'm Soriano 🙋‍♂️</h1>
-<h2>💻👨‍💻Full Stack Web Developer</h2>
+<h2>💻👨‍💻 Software engineer</h2>
 
 <hr>
 
@@ -30,8 +30,11 @@
 <img src="https://img.shields.io/badge/Jquery%20-%23F7DF1E.svg?&style=for-the-badge&color=0769AC" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3079C6" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Flutter%20-%23F7DF1E.svg?&style=for-the-badge&color=115B9A" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Cordova%20-%23F7DF1E.svg?&style=for-the-badge&color=802221" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/handlebarsjs%20-EA762A.svg?&style=for-the-badge&color=FBDDA9" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/jest%20-%23F7DF1E.svg?&style=for-the-badge&color=74C417" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Fury%20-%23F7DF1E.svg?&style=for-the-badge&color=65BEAA" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Nordic%20-%23F7DF1E.svg?&style=for-the-badge&color=000000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mocha%20-%23F7DF1E.svg?&style=for-the-badge&color=8D6748" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/socket.io%20-%23F7DF1E.svg?&style=for-the-badge&color=5776A2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/next.js%20-%23F7DF1E.svg?&style=for-the-badge&color=000000" />&nbsp;&nbsp;
@@ -111,7 +114,7 @@
 
 ### ✔  **Domain :** Full-Stack Web Development 💻
 ### ✔  **Skills :** Javascript, ReactJs, Vue.js, Angular, MongoDB, Mysql, Node.js, PHP, .NET Core, Python
-### ✔  **Hobbies :**  Read 📕, Music 🎧
+### ✔  **Hobbies :** Bike 🚲, Music 🎧, Read 📕, Gym 🏋️
 <hr>
 
 ### Total Profile Views :detective: 
