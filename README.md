@@ -57,6 +57,7 @@
 <img src="https://img.shields.io/badge/Playwright%20-%23F7DF1E.svg?&style=for-the-badge&color=454547" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Cypress%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Jitsi%20-%23F7DF1E.svg?&style=for-the-badge&color=454547" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Fury%20-%23F7DF1E.svg?&style=for-the-badge&color=454547" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=A259FF" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Adobe XD%20-%23F7DF1E.svg?&style=for-the-badge&color=470137" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
@@ -72,6 +73,7 @@
 <img src="https://img.shields.io/badge/Discord%20-%23F7DF1E.svg?&style=for-the-badge&color=3C4C65" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PHP%20-%23F7DF1E.svg?&style=for-the-badge&color=7A86B8" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/WordPress%20-%23F7DF1E.svg?&style=for-the-badge&color=547bab" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GCP%20-%23F7DF1E.svg?&style=for-the-badge&color=547bab" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NestJs%20-%ea2845.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
@@ -91,6 +93,7 @@
 <img src="https://img.shields.io/badge/Eloquent%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Freemarker%20-%fff.svg?&style=for-the-badge&color=074095" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Liferay%20-%23F7DF1E.svg?&style=for-the-badge&color=0B63CE" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/N8N%20-%23F7DF1E.svg?&style=for-the-badge&color=F24F3B" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Pandas%20-%23F7DF1E.svg?&style=for-the-badge&color=110054" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Styled components%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Redis%20-%23F7DF1E.svg?&style=for-the-badge&color=802221" />&nbsp;&nbsp;
@@ -98,6 +101,7 @@
 <img src="https://img.shields.io/badge/PBX%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Metabase%20-%23F7DF1E.svg?&style=for-the-badge&color=5EA4E3" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Grafana%20-%23F7DF1E.svg?&style=for-the-badge&color=5EA4E3" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Bitbucket%20-%23F7DF1E.svg?&style=for-the-badge&color=2684FF" />&nbsp;&nbsp;
@@ -105,8 +109,12 @@
 <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?&style=for-the-badge&color=2496ED" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker compose%20-%23F7DF1E.svg?&style=for-the-badge&color=B4C3D2" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Supabase%20-%23F7DF1E.svg?&style=for-the-badge&color=B4C3D2" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Travis CI%20-%23F7DF1E.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Github Actions%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Datadog%20-%23F7DF1E.svg?&style=for-the-badge&color=2496ED" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/kibana%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/newrelic%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AWS%20-%23F7DF1E.svg?&style=for-the-badge&color=547bab" />&nbsp;&nbsp;
 <hr>
 
